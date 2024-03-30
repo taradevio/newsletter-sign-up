@@ -25,7 +25,6 @@ main {
     padding: 17px;
     background-color: var(--white);
     display: flex;
-    /* display: none; */
     justify-content: center;
     align-items: center;
     border-radius: 12px;
